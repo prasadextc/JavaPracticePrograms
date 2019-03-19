@@ -1,6 +1,8 @@
 package Interview.Java.PracticePrograms;
 
 public class StarPyramid {
+	
+
 /////////////********** PYRAMID 1 **********//////////
 /*	
 * 
@@ -45,7 +47,7 @@ public class StarPyramid {
 * * 
 *                */
 
-	public static void main(String[] args) {
+/*	public static void main(String[] args) {
 		int rows = 5;
 
 		for (int i = rows; i >= 1; --i) {
@@ -55,12 +57,12 @@ public class StarPyramid {
 			System.out.println();
 		}
 	}
-}
+}*/
 	
 //************************************* END PYRAMID 2  ********************************************//	
 	
 	//-----------------------------------------------------------------------------------------------------------------------//
 
-	
+}
 
 
